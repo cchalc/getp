@@ -1,0 +1,13 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/christopher.chalcraft/Training/scala/getprogramming/target/scala-2.13/sbt-nix-getprogramming_2.13-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cchalc[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/christopher.chalcraft/Training/scala/getprogramming/target/scala-2.13/classes/cchalc[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cchalc/getprogramming[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/christopher.chalcraft/Training/scala/getprogramming/target/scala-2.13/classes/cchalc/getprogramming[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cchalc/getprogramming/Hello$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/christopher.chalcraft/Training/scala/getprogramming/target/scala-2.13/classes/cchalc/getprogramming/Hello$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cchalc/getprogramming/Hello$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/christopher.chalcraft/Training/scala/getprogramming/target/scala-2.13/classes/cchalc/getprogramming/Hello$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cchalc/getprogramming/Hello.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/christopher.chalcraft/Training/scala/getprogramming/target/scala-2.13/classes/cchalc/getprogramming/Hello.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
